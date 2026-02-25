@@ -25,6 +25,7 @@ Busco evoluir constantemente em:
 **Backend**
 - PHP
 - Laravel
+- Rust
 - Go (básico/intermediário)
 
 **Frontend**
