@@ -9,7 +9,6 @@
 ## 🧠 Sobre mim
 
 Sou desenvolvedor em formação com foco em backend e construção de sistemas bem estruturados.  
-Gosto de entender como as coisas funcionam por dentro — não apenas fazer funcionar.
 
 Busco evoluir constantemente em:
 - Arquitetura de software
@@ -26,7 +25,7 @@ Busco evoluir constantemente em:
 - PHP
 - Laravel
 - Rust
-- Go (básico/intermediário)
+- Go
 
 **Frontend**
 - HTML
@@ -41,7 +40,7 @@ Busco evoluir constantemente em:
 **Ferramentas**
 - Git & GitHub
 - APIs REST
-- Autenticação e autorização
+
 
 ---
 
@@ -53,12 +52,7 @@ Busco evoluir constantemente em:
 
 ## 📈 Atualmente estudando
 
-- Estrutura interna do Laravel
-- Arquitetura limpa
-- Boas práticas em APIs
-- Fundamentos mais profundos de banco de dados
-- Inglês técnico
-
+- Laravel (PHP, Fiber (Go)
 ---
 
 ## 📫 Contato
